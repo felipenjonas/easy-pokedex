@@ -4,7 +4,6 @@
 <h3 style="color:grey">App:</h3>
 
 <div align="center">
-    <img src="" width="170px">
-    <img src="" width="170px">
-    <img src="" width="170px">
+    <img src="./app/src/main/res/public/image1.jpg" width="190px">
+    <img src="./app/src/main/res/public/image2.jpg" width="190px">
 </div>
